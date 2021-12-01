@@ -1,1 +1,1 @@
-# python-codes
+# how to use python print code
